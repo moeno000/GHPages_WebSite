@@ -1,4 +1,4 @@
----
+ ---
 title: "ここにページのタイトル"
 author: default
 permalink: /
